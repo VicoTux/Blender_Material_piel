@@ -1,0 +1,3 @@
+colores en Hexadecimal:
+Caucasian: Difuse A48173 Especular B08572
+  African: Difuse 48362F Especular 4F3B34
